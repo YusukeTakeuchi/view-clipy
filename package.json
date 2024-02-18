@@ -1,0 +1,14 @@
+{
+  "name": "view-clipy",
+  "version": "1.0.0",
+  "description": "view clipy clipboard history",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yusuke Takeuchi",
+  "license": "MIT",
+  "dependencies": {
+    "realm": "^12.6.0"
+  }
+}
